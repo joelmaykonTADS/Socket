@@ -1,0 +1,11 @@
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\bin\Debug\netcoreapp2.0\Servidor.deps.json
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\bin\Debug\netcoreapp2.0\Servidor.runtimeconfig.json
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\bin\Debug\netcoreapp2.0\Servidor.runtimeconfig.dev.json
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\bin\Debug\netcoreapp2.0\Servidor.dll
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\bin\Debug\netcoreapp2.0\Servidor.pdb
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.csprojAssemblyReference.cache
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.AssemblyInfo.cs
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.dll
+C:\Users\Joel\Documents\TADS\Sistemas Distribuidos\Sockets\Servidor\obj\Debug\netcoreapp2.0\Servidor.pdb

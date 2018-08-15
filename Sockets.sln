@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cliente", "Cliente\Cliente.csproj", "{7FA7BFF9-AC22-4E16-9E02-1550E14F3C57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servidor", "Servidor\Servidor.csproj", "{E7CF5CE5-92B3-49A3-B76D-7352A6A8AE29}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ClientePython", "ClientePython\ClientePython.pyproj", "{518386B1-9B4E-4B9A-9106-A4B0A89BD516}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ServidorPython", "ServidorPython\ServidorPython.pyproj", "{B96CF1A0-BC86-4D3E-A394-CE87C2E510FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "clienteAssycio", "clienteAssycio\ClienteAssycio.pyproj", "{7256DAB7-A161-452D-867C-EDADB804D0F5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ServidorAssycio", "ServidorAssycio\ServidorAssycio.pyproj", "{931112AF-9DFB-4B0E-8A2C-3FB0E2F64857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA7BFF9-AC22-4E16-9E02-1550E14F3C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA7BFF9-AC22-4E16-9E02-1550E14F3C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA7BFF9-AC22-4E16-9E02-1550E14F3C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA7BFF9-AC22-4E16-9E02-1550E14F3C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CF5CE5-92B3-49A3-B76D-7352A6A8AE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CF5CE5-92B3-49A3-B76D-7352A6A8AE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CF5CE5-92B3-49A3-B76D-7352A6A8AE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CF5CE5-92B3-49A3-B76D-7352A6A8AE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518386B1-9B4E-4B9A-9106-A4B0A89BD516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518386B1-9B4E-4B9A-9106-A4B0A89BD516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96CF1A0-BC86-4D3E-A394-CE87C2E510FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96CF1A0-BC86-4D3E-A394-CE87C2E510FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7256DAB7-A161-452D-867C-EDADB804D0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7256DAB7-A161-452D-867C-EDADB804D0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931112AF-9DFB-4B0E-8A2C-3FB0E2F64857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931112AF-9DFB-4B0E-8A2C-3FB0E2F64857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F9F406-AEFC-470C-AD89-B2D37A1A4731}
+	EndGlobalSection
+EndGlobal
