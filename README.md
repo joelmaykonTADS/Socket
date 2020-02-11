@@ -1,4 +1,4 @@
-### Atividades de Sistemas distribuidos
+### Atividades de Sistemas distribuídos
 #### Implementações:
 #####  Clientes
 * [TCP em C#](https://github.com/joelmaykonTADS/Socket/tree/master/Cliente)
